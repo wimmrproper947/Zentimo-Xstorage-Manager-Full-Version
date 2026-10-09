@@ -233,4 +233,4 @@ This repository serves as the official landing page for Zentimo xStorage Manager
 **Get the most recent version of Zentimo xStorage Manager today!**
 
 ---
-**Last updated:** 2026-10-08 21:56:33 UTC
+**Last updated:** 2026-10-09 01:58:16 UTC
